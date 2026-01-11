@@ -14,10 +14,10 @@ export default function HeroHomeOne() {
                     Get {' '}
                     <span className="inline-flex items-center gap-5"> More
                       <img src="assets/img/elemnts/shape-light-lime-5-arms-star.svg" alt="shape-light-lime-5-arms-star" width="74" height="70" className="w-12 md:w-14 lg:w-auto h-auto" /></span>
-                   {' '} Customers
+                   {' '} Customers test
                   </h1>
                   <p className="mb-10 mt-6 text-lg leading-[1.4] md:mb-14 lg:text-[21px]">
-                    With a high-quality website that works for your business
+                    With a high-quality website that test works for your business
                     Be visible. Attract Customers. Increase sales.
                   </p>
 
