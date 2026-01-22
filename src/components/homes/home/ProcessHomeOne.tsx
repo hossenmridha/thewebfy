@@ -6,19 +6,19 @@ const faq_data = [
     id: 1,
     title: "01/ Project idea",
     content:
-      "The process starts with a detailed discussion with the client to understand their idea & goals.",
+      "We start by understanding your business, audience, and objectives. This is where we define the problem, clarify expectations, and set the foundation for smart technical decisions.",
   },
   {
     id: 2,
     title: "02/ Brainstorming",
     content:
-      "The process starts with a detailed discussion with the client to understand their idea & goals.",
+      "Next, we map solutions. Structure, user flow, design direction, and tech stack all come together here. You’re involved, feedback is welcome, and nothing moves forward without clarity.",
   },
   {
     id: 3,
     title: "03/ Launch",
     content:
-      "The process starts with a detailed discussion with the client to understand their idea & goals.",
+      "Once everything is built, tested, and refined, we go live. Clean code, fast performance, and a smooth handoff so you’re ready to grow with confidence.",
   },
 ];
 
@@ -52,15 +52,11 @@ export default function ProcessHomeOne() {
               </h2>
               <div className="jos mt-6">
                 <p className="section-para">
-                  We focus at every stage on effective communication and
-                  collaboration between the client and ensuring that the final
-                  design meets the client's objectives and expectations.
+                  WHere’s the thing. Great websites don’t happen by accident. They come from clear thinking, tight collaboration, and a process that keeps everyone aligned from day one to launch.
                 </p>
 
                 <p className="section-para">
-                  It is important to note that these are simplified steps, and
-                  the actual work process may vary depending on the complexity
-                  of the project.
+                  We focus on communication at every stage, making sure the final product supports your goals, your users, and your growth. Each project is different, so while the steps below stay consistent, the depth and execution adjust based on complexity.
                 </p>
               </div>
             </div>

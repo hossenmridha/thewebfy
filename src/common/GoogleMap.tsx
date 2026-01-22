@@ -30,8 +30,8 @@ export default function GoogleMap() {
                 <div className="flex-1">
                   <span className="mb-3 block text-xl font-bold text-colorButteryWhite xl:text-2xl">Call us</span>
                   <div className="flex flex-col text-lg leading-[1.42] lg:text-[21px]">
-                    <a href="tel:+0123456789" className="text-colorButteryWhite hover:text-colorLightLime">+012-345-6789</a>
-                    <a href="tel:+0123456789" className="text-colorButteryWhite hover:text-colorLightLime">+012-345-6789</a>
+                    <a href="tel:+0123456789" className="text-colorButteryWhite hover:text-colorLightLime">+880 1714-057899</a>
+                    <a href="tel:+0123456789" className="text-colorButteryWhite hover:text-colorLightLime">+880 1923-430106</a>
                   </div>
                 </div>
               </li>
@@ -44,8 +44,8 @@ export default function GoogleMap() {
                 <div className="flex-1">
                   <span className="mb-3 block text-xl font-bold text-colorButteryWhite xl:text-2xl">Email us</span>
                   <div className="flex flex-col text-lg leading-[1.42] lg:text-[21px]">
-                    <a href="mailto:" className="text-colorButteryWhite hover:text-colorLightLime">example@gmail.com</a>
-                    <a href="mailto:" className="text-colorButteryWhite hover:text-colorLightLime">example@gmail.com</a>
+                    <a href="mailto:" className="text-colorButteryWhite hover:text-colorLightLime">suportzuadul@gmail.com</a>
+                    <a href="mailto:" className="text-colorButteryWhite hover:text-colorLightLime">hossen.ahmed0206@gmail.com</a>
                   </div>
                 </div>
               </li>
@@ -59,7 +59,7 @@ export default function GoogleMap() {
                   <span className="mb-3 block text-xl font-bold text-colorButteryWhite xl:text-2xl">Office address</span>
                   <div className="flex flex-col text-lg leading-[1.42] lg:text-[21px]">
                     <address className="not-italic text-colorButteryWhite">
-                      4132 Thornridge City, New York.
+                      Mirpur, Dhaka.
                     </address>
                   </div>
                 </div>
@@ -70,9 +70,14 @@ export default function GoogleMap() {
 
             {/* <!-- Location Map Block --> */}
             <div className="jos mt-10 md:mt-[60px] lg:mt-20">
-              <div className="h-96 w-full overflow-hidden rounded-[20px] border-2 border-black lg:h-[600px] lg:rounded-[30px] lg:border-[5px]">
-                <iframe className="h-full w-full" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Grafton%20Street,%20Dublin,%20Ireland+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
-              </div>
+                  <div className="h-96 w-full overflow-hidden rounded-[20px] border-2 border-black lg:h-[600px] lg:rounded-[30px] lg:border-[5px]">
+                    <iframe
+                      className="h-full w-full"
+                      src="https://maps.google.com/maps?width=100%25&height=600&hl=en&q=Mirpur,%20Dhaka,%20Bangladesh&t=&z=14&ie=UTF8&iwloc=B&output=embed"
+                      loading="lazy"
+                    ></iframe>
+                  </div>
+
             </div>
             {/* <!-- Location Map Block --> */}
           </div>

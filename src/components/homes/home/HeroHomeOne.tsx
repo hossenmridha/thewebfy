@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { DotLottieReact } from '@lottiefiles/dotlottie-react';
  
 export default function HeroHomeOne() {
   return (
@@ -14,10 +15,10 @@ export default function HeroHomeOne() {
                     Get {' '}
                     <span className="inline-flex items-center gap-5"> More
                       <img src="assets/img/elemnts/shape-light-lime-5-arms-star.svg" alt="shape-light-lime-5-arms-star" width="74" height="70" className="w-12 md:w-14 lg:w-auto h-auto" /></span>
-                   {' '} Customers test
+                   {' '} Customers
                   </h1>
                   <p className="mb-10 mt-6 text-lg leading-[1.4] md:mb-14 lg:text-[21px]">
-                    With a high-quality website that test works for your business
+                    With a high-quality website that works for your business
                     Be visible. Attract Customers. Increase sales.
                   </p>
 
@@ -34,11 +35,20 @@ export default function HeroHomeOne() {
                     <span className="absolute right-[5px] inline-flex h-[50px] w-[50px] items-center justify-center rounded-[50%] bg-black"><img src="assets/img/icons/icon-buttery-white-phone.svg" alt="icon-buttery-white-phone" width="30" height="30" /></span></Link>
                 </div>
 
-
-                <div className="mx-auto inline-block max-w-[495px] overflow-hidden rounded-[25px] bg-colorButteryWhite p-[5px] lg:mx-0">
-                  <img src="assets/img/images/th-1/hero-img.jpg" alt="hero-img" width="485" height="540" className="h-full w-full rounded-[20px] object-cover" />
-                </div>
-
+                          <div className="mx-auto inline-block max-w-[495px] overflow-hidden rounded-[25px] p-[5px] lg:mx-0">
+                              <div className="h-full w-full overflow-hidden rounded-[20px] bg-transparent">
+                                <DotLottieReact
+                                  src="https://lottie.host/176b7284-d826-448c-b78c-46da47553c40/bnlc2glweA.lottie"
+                                  loop
+                                  autoplay
+                                  style={{
+                                    width: '100%',
+                                    height: '540px',
+                                    background: 'transparent',
+                                  }}
+                                />
+                              </div>
+                            </div>
 
 
                 <img src="assets/img/elemnts/element-light-lime-curve-arrow.svg" alt="element-light-lime-curve-arrow" width="284" height="153" className="absolute bottom-0 left-1/2 -z-10 hidden h-auto max-w-52 -translate-x-1/2 lg:inline-block xl:max-w-full" />

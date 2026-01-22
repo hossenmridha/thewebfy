@@ -91,7 +91,7 @@ export default function ComingSoon() {
 
                   {/* <!-- Copyright Text --> */}
                   <div className="text-colorButteryWhite">
-                    &copy; Copyright {new Date().getFullYear()}, All Rights Reserved by Mthemeus
+                    &copy; Copyright {new Date().getFullYear()}, All Rights Reserved by thewebfy
                   </div>
                   {/* <!-- Copyright Text --> */}
                 </div>

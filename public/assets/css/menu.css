@@ -685,7 +685,7 @@
     }
 
     .site-header .mobile-menu-trigger span.bg-white {
-        background-color: #fff !important;
+        background-color: #000000 !important;
     }
 
     .reveal-header .mobile-menu-trigger span {
@@ -708,12 +708,12 @@
 
     .site-header .mobile-menu-trigger span.bg-white::before,
     .site-header .mobile-menu-trigger span.bg-white::after {
-        background-color: #fff !important;
+        background-color: #000000 !important;
     }
 
     .site-header .mobile-menu-trigger.is-white span:before,
     .site-header .mobile-menu-trigger.is-white span:after {
-        background-color: #fff;
+        background-color: #000000;
     }
 
     .site-header .mobile-menu-trigger span:before {

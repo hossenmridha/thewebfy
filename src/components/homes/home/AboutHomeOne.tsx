@@ -5,7 +5,7 @@ import VideoPopup from "../../../modals/VideoPopup";
 
 const counters = [
 	{
-		value: 15,
+		value: 5,
 		suffix: "+",
 		label: "Years of experience",
 	},
@@ -15,7 +15,7 @@ const counters = [
 		label: "Successful projects",
 	},
 	{
-		value: 100,
+		value: 99,
 		suffix: "%",
 		label: "Client satisfaction rate",
 	},
@@ -35,9 +35,9 @@ export default function AboutHomeOne() {
 						<div className="section-block mb-10 md:mb-[60px] xl:mb-20">
 							<div className="grid items-center gap-x-6 gap-y-10 text-center lg:grid-cols-[1fr_minmax(0,0.55fr)] lg:text-start xl:gap-x-[134px]">
 								<h2 className="jos">
-									We make {' '}
+									We build {' '}
 									<span>
-										your
+										websites that 
 										<img
 											src="assets/img/elemnts/shape-light-lime-5-arms-star.svg"
 											alt="shape-light-lime-5-arms-star"
@@ -46,11 +46,10 @@ export default function AboutHomeOne() {
 											className="relative inline-block h-auto w-8 after:bg-black md:w-10 lg:w-[57px]"
 										/>
 									</span>
-									business stand out
+									make your business stand out 
 								</h2>
 								<p className="jos section-para">
-									We work closely with our clients to know their objectives,
-									target audience, unique needs, and practical design solutions.
+									We work closely with you to understand your goals, users, and growth plans, then turn that clarity into fast, scalable, and conversion-focused websites.
 								</p>
 							</div>
 						</div>

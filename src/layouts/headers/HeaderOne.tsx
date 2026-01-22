@@ -102,7 +102,7 @@ export default function HeaderOne({ menu_color }: NavmenuProps) {
             <div className="flex items-center gap-x-10">
               {/* Logo */}
               <Link to="/">
-                <img src="assets/img/logo.svg" alt="logo" width="121" height="24" />
+                <img src="assets/img/logothewebfy.svg" alt="logo" width="121" height="24" />
               </Link>
 
               {/* Menu */}

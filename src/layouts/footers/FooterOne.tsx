@@ -26,10 +26,8 @@ export default function FooterOne() {
                     </h2>
 
                     <p className="section-para">
-                      We work closely with our clients to understand their
-                      objectives, target audience, and unique needs. We use our
-                      creative skills to translate these requirements and
-                      practical design solutions.
+                      Ready to launch or redesign your Shopify store, WordPress site, or brand online? TheWebFy team responds within 24 hours to kickstart your project with a free consultation.
+
                     </p>
                   </div>
                   {/* <!-- Section Block --> */}
@@ -40,12 +38,12 @@ export default function FooterOne() {
                       <ul className="mt-12 flex flex-col gap-y-3">
                         <li>
                           <span className="block font-syne text-[21px] font-bold leading-[1.42] text-colorLightLime">Give us a call:</span>
-                          <a href="tel:+1234567890" className="text-[21px] leading-[1.42] text-colorButteryWhite">(123) 456-7890</a>
+                          <a href="tel:+1234567890" className="text-[21px] leading-[1.42] text-colorButteryWhite">+880 1714-057899</a>
                         </li>
                         <li>
                           <span className="block font-syne text-[21px] font-bold leading-[1.42] text-colorLightLime">Send us an email:
                           </span>
-                          <a href="mailto:yourmail@email.com" className="text-[21px] leading-[1.42] text-colorButteryWhite">yourmail@email.com</a>
+                          <a href="mailto:yourmail@email.com" className="text-[21px] leading-[1.42] text-colorButteryWhite">suportzuadul@gmail.com</a>
                         </li>
                       </ul>
                       {/* <!-- Footer Info --> */}
@@ -111,7 +109,7 @@ export default function FooterOne() {
             <div className="container">
               <div className="flex flex-wrap justify-center gap-x-[30px] gap-y-4 lg:justify-between">
                 <Link to="/">
-                  <img src="assets/img/logo-buttery-white.svg" alt="logo-buttery-white" width="121" height="24" />
+                  <img src="assets/img/logonew.svg" alt="logo-buttery-white" width="121" height="24" />
                 </Link>
 
                 {/* <!-- Copyright Text --> */}

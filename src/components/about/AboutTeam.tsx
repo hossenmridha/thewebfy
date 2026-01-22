@@ -49,7 +49,7 @@ export default function AboutTeam() {
               </div>
 
               <div className="mt-5 text-center">
-                <Link to="/team-details" className="display-heading display-heading-4 mb-4 block">Andrew Mark</Link>
+                <Link to="/team-details" className="display-heading display-heading-4 mb-4 block">Arafat Hossain</Link>
                 <span className="text-lg md:text-[21px]">CEO & Founder</span>
               </div>
             </li>
@@ -81,7 +81,7 @@ export default function AboutTeam() {
               </div>
 
               <div className="mt-5 text-center">
-                <Link to="/team-details" className="display-heading display-heading-4 mb-4 block">Jack Taylor</Link>
+                <Link to="/team-details" className="display-heading display-heading-4 mb-4 block">Mahmudul Hasan</Link>
                 <span className="text-lg md:text-[21px]">Senior Designer</span>
               </div>
             </li>

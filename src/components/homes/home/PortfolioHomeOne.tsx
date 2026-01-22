@@ -9,29 +9,29 @@ import { Link } from "react-router-dom";
 // Project data 
 const portfolioData = [
   {
-    title: "Product Design",
-    description: "Developing the look and feel of physical products, aesthetics, and functionality.",
-    image: "assets/img/images/th-1/project-img-1.jpg",
+    title: "NOVA DEALS E-commerce Store",
+    description: " (Shopify): Custom theme, affiliate integrations, and SEO boosting conversions by 40% for multi-market sales.",
+    image: "assets/img/images/th-1/nova-project.jpg",
   },
   {
-    title: "Logo and Branding",
-    description: "Creating or refreshing a company's logo and developing a cohesive visual identity.",
+    title: "Lotto Sport Bangladesh",
+    description: "Our portfolio now features Lotto Sport Bangladesh, showcasing top-tier Shopify development for premium sportswear e-commerce tailored to local markets.",
     image: "assets/img/images/th-1/project-img-2.jpg",
   },
   {
-    title: "App UI/UX Design",
-    description: "Designing the UI/UX for mobile apps and web applications to ensure usability & engagement.",
+    title: "lifeliveth.com Redesign",
+    description: "TheWebFy portfolio now showcases the lifeliveth.com Shopify redesign, transforming an outdated site into a high-performing e-commerce platform with modern UX and optimized conversions.",
     image: "assets/img/images/th-1/project-img-3.jpg",
   },
   {
-    title: "Packaging Design",
-    description: "Creating packaging solutions for products that not only protect but attract customers.",
+    title: "rovorsport.com ",
+    description: "Website Maintenance & Support: Ongoing updates, security audits, performance tuning, and client onboarding for sustained online presence.",
     image: "assets/img/images/th-1/project-img-4.jpg",
   },
   {
-    title: "Product Design",
-    description: "Developing the look and feel of physical products, aesthetics, and functionality.",
-    image: "assets/img/images/th-1/project-img-1.jpg",
+    title: "taxsolutions.net.au",
+    description: "TheWebFy portfolio now includes taxsolutions.net.au, a professional redesign and development",
+    image: "assets/img/images/th-1/project-img.jpg",
   },
   {
     title: "Logo and Branding",

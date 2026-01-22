@@ -47,7 +47,7 @@ const socials = [
 const team_data: TeamMember[] = [
   {
     id: 1,
-    name: "Andrew Mark",
+    name: "Arafat Hossain",
     title: "CEO & Founder",
     image: "assets/img/images/th-1/team-img-1.jpg",
     delay: "0",
@@ -55,7 +55,7 @@ const team_data: TeamMember[] = [
   },
   {
     id: 2,
-    name: "Jack Taylor",
+    name: "Mahmudul Hasan",
     title: "Senior Designer",
     image: "assets/img/images/th-1/team-img-2.jpg",
     delay: "0.2",
@@ -63,7 +63,7 @@ const team_data: TeamMember[] = [
   },
   {
     id: 3,
-    name: "Adam Straw",
+    name: "Tanvir Ahmed",
     title: "Web Developer",
     image: "assets/img/images/th-1/team-img-3.jpg",
     delay: "0.4",
@@ -71,7 +71,7 @@ const team_data: TeamMember[] = [
   },
   {
     id: 4,
-    name: "Martine Joy",
+    name: "Nusrat Jahan",
     title: "Project Manager",
     image: "assets/img/images/th-1/team-img-4.jpg",
     delay: "0.6",

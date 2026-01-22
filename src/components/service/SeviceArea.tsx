@@ -22,63 +22,63 @@ const service_data: ServiceItem[] = [
   {
     id: 2,
     icon: "assets/img/icons/th-1-service-icon-2.svg",
-    title: "Graphic Design",
+    title: "WordPress Web Development",
     description:
-      "Creating visual elements such as logos, branding materials, page layout techniques, brochures, & other marketing collateral.",
+      "Full-site builds using themes/plugins, custom PHP/HTML/CSS, WooCommerce stores, SEO setups, and maintenance for blogs, portfolios, or enterprise sites.",
     link: "/service-details",
     delay: 0.3,
   },
   {
     id: 3,
     icon: "assets/img/icons/th-1-service-icon-3.svg",
-    title: "Web Design",
+    title: "Website Maintenance & Support",
     description:
-      "Designing and developing websites to ensure they are visually look and appealing, user-friendly, and functional your website.",
+      "Ongoing updates, security audits, performance tuning, and client onboarding for sustained online presence.",
     link: "/service-details",
     delay: 0.6,
   },
   {
     id: 4,
     icon: "assets/img/icons/th-1-service-icon-4.svg",
-    title: "Motion Graphics",
+    title: "Website Redesign",
     description:
-      "Creating animated graphics, videos for various purposes, including marketing and entertainment. To help sell a product or service.",
+      "TheWebFy now includes Website Redesign as a core service, empowering clients to refresh outdated sites into modern, high-converting platforms using Shopify, WordPress, or custom builds.",
     link: "/service-details",
     delay: 0.9,
   },
   {
     id: 5,
     icon: "assets/img/icons/th-1-service-icon-5.svg",
-    title: "Packaging Design",
+    title: "Custom Web Design & Branding",
     description:
-      "Creating packaging solutions for products that not only protect them but also attract customers on store shelves.",
+      "Responsive designs, logos, domain strategies, and content creation optimized for Bangladesh and international markets like Canada.",
     link: "/service-details",
     delay: 1.2,
   },
   {
     id: 6,
     icon: "assets/img/icons/th-1-service-icon-6.svg",
-    title: "Logo and Branding",
+    title: "Webflow Development",
     description:
-      "Creating or refreshing a company's logo and developing a cohesive visual identity, business cards, letterheads, & style guides.",
+      "Build powerful, designer-friendly websites with full capabilities:",
     link: "/service-details",
     delay: 1.5,
   },
   {
     id: 7,
     icon: "assets/img/icons/th-1-service-icon-6.svg",
-    title: "Logo and Branding",
+    title: "Wix Development",
     description:
-      "Creating or refreshing a company's logo and developing a cohesive visual identity, business cards, letterheads, & style guides.",
+      "Rapid, user-friendly sites with pro-level enhancements:",
     link: "/service-details",
     delay: 1.8,
   },
   {
     id: 8,
     icon: "assets/img/icons/th-1-service-icon-7.svg",
-    title: "Illustration",
+    title: "Landing Page Development",
     description:
-      "Producing custom illustrations for editorial content, books, websites, marketing materials, magazines and more.",
+      "High-converting single-page sites for campaigns, products, or lead generation using any platform.",
     link: "/service-details",
     delay: 2.1,
   },
