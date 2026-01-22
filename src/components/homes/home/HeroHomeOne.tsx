@@ -31,7 +31,7 @@ export default function HeroHomeOne() {
                     <span className="text-base font-semibold">Brands Love to Work With Us</span>
                   </div>
 
-                  <Link to="https://wa.link/78d75z" className="btn-primary relative pr-20 md:pr-[118px]">Chat on WhatsApp
+                  <Link to="https://wa.link/vrwij4" className="btn-primary relative pr-20 md:pr-[118px]">Chat on WhatsApp
                     <span className="absolute right-[5px] inline-flex h-[50px] w-[50px] items-center justify-center rounded-[50%] bg-black"><img src="assets/img/icons/icon-buttery-white-phone.svg" alt="icon-buttery-white-phone" width="30" height="30" /></span></Link>
                 </div>
 

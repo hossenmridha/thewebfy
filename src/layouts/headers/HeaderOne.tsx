@@ -174,7 +174,7 @@ export default function HeaderOne({ menu_color }: NavmenuProps) {
             {/* Contact & Hamburger */}
             <div className="flex items-center gap-x-6">
               <Link
-                to="https://wa.link/78d75z"
+                to="https://wa.link/vrwij4"
                 className="btn-primary relative hidden px-[30px] py-[10px] sm:inline-flex"
               >
                 Let's chat
